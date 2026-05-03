@@ -30,7 +30,6 @@ Obsessed with **hackathons**, **deep collaboration**, and **programming**
 </p>
 
 <p align="center">
-  <strong>Quick glance</strong> — badges are the tooling slice in clickable form:<br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
