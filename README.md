@@ -18,9 +18,8 @@
 
 ### About
 
-DevOps engineer focused on **reliable delivery**, **automation**, and **clear observability**. I design and maintain pipelines, containerized workloads, and production-friendly Linux environments. **Kubernetes** is an active growth area — hands-on exposure today, deepening expertise steadily.
-
-Open to **hackathons**, **collaborations**, and infrastructure-heavy projects.
+⚙️ I'm a **DevOps engineer** focused on **reliable delivery**, **automation**, and **clear observability**. I work on CI/CD pipelines, containerized workloads, and Linux-heavy production environments — systems I aim to leave **understandable and operable**.
+Obsessed with **hackathons**, **deep collaboration**, and **programming** 
 
 ---
 
