@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Ilya-Linh — DevOps banner accent">
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff3399"/>
+      <stop offset="50%" stop-color="#ff77bb"/>
+      <stop offset="100%" stop-color="#ff3399"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect fill="#0a0a0a" width="1200" height="130"/>
+  <!-- Headline: compound name, then space, hyphen, space, role -->
+  <text x="600" y="34" text-anchor="middle" fill="#ff3399" font-family="Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="22" font-weight="700">Ilya-Linh - DevOps &amp; Infrastructure</text>
+  <polygon fill="#1a0a14" opacity="0.9" points="0,130 280,78 560,106 840,72 1120,100 1200,86 1200,130"/>
+  <path d="M0 86 L90 86 L112 68 L154 110 L228 78 L322 108 L418 76 L514 106 L598 76 L694 108 L782 76 L884 108 L974 76 1200 76" fill="none" stroke="url(#neon)" stroke-width="2.2" stroke-linejoin="round" filter="url(#glow)"/>
+  <g fill="#ff3399" opacity="0.85">
+    <polygon points="80,112 94,122 108,112"/>
+    <polygon points="420,112 434,122 448,112"/>
+    <polygon points="760,112 774,122 788,112"/>
+  </g>
+</svg>
